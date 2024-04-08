@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **mongo DB**
 
-- 💬 Ask me about **c#, SQL, VB.NEt, Angular, API**
+- 💬 Ask me about **c#, SQL, Angular, API**
 
 - 📫 How to reach me **sangeethalaksmi@gmail.com**
 
